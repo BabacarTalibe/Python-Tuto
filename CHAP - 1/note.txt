@@ -1,0 +1,1 @@
+Les types prédéfinis : None, numeric (float, int, complex, bool), list, sequence, set, dictionnary
